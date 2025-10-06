@@ -8,7 +8,7 @@ Achievements would look something like this:
 <img width="298" height="74" alt="image" src="https://github.com/user-attachments/assets/63367302-7b7e-4a42-a63a-bfb946cf7003" />
 
 
-This will be my logo for LinVest:
+This will be my logo for **LinVest**:
 
 P.S. You can see the L and i connecting to represent a 'chart'.
 
