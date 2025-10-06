@@ -1,4 +1,4 @@
-# LinVest-FinanceTracker
+<img width="468" height="74" alt="image" src="https://github.com/user-attachments/assets/e43fa98e-0d2f-416d-ba06-d1643e3c83fe" /># LinVest-FinanceTracker
 ## Personal Finance Tracker and Budgeting App
 
 ### Description
@@ -10,3 +10,15 @@ LinVest will focus on
 - Working Professionals
 - Individuals that struggle with financial management
 
+### Key Features
+Core features
+- Expense and Income tracking (add, edit, delete transactions) and categorizing the expenses
+-	Budgeting & Goals
+-	Insights & Analytics (pie charts, bar graphs) 
+-	Personalized recommendations and monthly reports highlighting overspending patterns
+
+
+User-experience-based features
+-	Onboarding tutorial/guide (step-by-step walkthrough of features as soon as you sign into the app)
+- This is my favourite feature: adding gamification elements for motivation (Achievement badges for meeting budget goals, etc…)
+-	AI-powered chatbot/live chat support 
