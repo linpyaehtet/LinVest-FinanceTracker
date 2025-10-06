@@ -1,4 +1,4 @@
-<img width="468" height="74" alt="image" src="https://github.com/user-attachments/assets/e43fa98e-0d2f-416d-ba06-d1643e3c83fe" /># LinVest-FinanceTracker
+# LinVest-FinanceTracker
 ## Personal Finance Tracker and Budgeting App
 
 ### Description
